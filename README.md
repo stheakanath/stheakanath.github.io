@@ -56,4 +56,25 @@
 - Mindhunter
 - House of Cards
 
-## Library 
+## 2019-2020 Selected Books 
+
+- Interpreter of Maladies, Jhumpa Lahiri
+- When Breath Becomes Air, Paul Kalanithi
+- 1984, George Orwell
+- Steve Jobs, Walter Isaacson
+- Educated, Tara Westover
+- Stories of Your Life and Others, Ted Chiang
+- Sapiens, Yuval Noah Harari
+- Being Mortal, Atul Gawande
+- A Brief History of Time, Steven Hawking
+- Principles, Ray Dalio
+- As a Man Thinketh, James Allen 
+- Persepolis, Marjane Satrapi 
+- Shoe Dog, Phil Knight
+- Harry Potter Series, JK Rowling
+- Bad Blood, John Carreyrou
+- Watchmen, Alan Moore
+- Creativity Inc, Ed Catmull
+- Born a Crime, Trevor Noah
+- Zero to One, Peter Thiel 
+- Man's Search for Meaning, Victor E Frankl 
