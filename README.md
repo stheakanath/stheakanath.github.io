@@ -66,7 +66,7 @@
 - Stories of Your Life and Others, Ted Chiang
 - Sapiens, Yuval Noah Harari
 - Being Mortal, Atul Gawande
-- A Brief History of Time, Steven Hawking
+- A Brief History of Time, Stephen Hawking
 - Principles, Ray Dalio
 - As a Man Thinketh, James Allen 
 - Persepolis, Marjane Satrapi 
