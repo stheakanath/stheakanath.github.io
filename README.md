@@ -32,4 +32,27 @@
 
 ## TV Shows 
 
+- Big Little Lies
+- Succession 
+- Watchmen 
+- Mad Men
+- Cowboy Bebop
+- The Boys
+- Westworld
+- Game of Thrones (minus season 8)
+- Barrys
+- Avatar the Last Airbender (kid friendly)
+- Silicon Valley
+- Stranger Things
+- Friends
+- Seinfield
+- Sherlock
+- Black Mirror
+- True Detective
+- Samurai Jack
+- Euphoria
+- Chernobyl
+- Mindhunter
+- House of Cards
+
 ## Library 
