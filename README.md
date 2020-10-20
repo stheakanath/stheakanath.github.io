@@ -42,7 +42,7 @@
 - Westworld
 - Game of Thrones (minus season 8)
 - Barrys
-- Avatar the Last Airbender (kid friendly)
+- Avatar the Last Airbender
 - Silicon Valley
 - Stranger Things
 - Friends
