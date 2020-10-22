@@ -6,7 +6,9 @@
 - Arrival, Denis Villeneuve, 2016
 - Whiplash, Damien Chazelle, 2014
 - The Dark Knight Trilogy, Christopher Nolan, 2005-2012
+- Forrest Gump, Robert Zemeckis, 1994
 - Inception, Christopher Nolan, 2010
+- Silence of the Lambs, Jonathan Demme, 1991
 - The Prestige, Christopher Nolan, 2006
 - The Lighthouse, Robert Eggers, 2019
 - Ghost in the Shell, Mamoru Oshii, 1995
@@ -18,6 +20,7 @@
 - Call Me By Your Name, Luca Guadagnino, 2017
 - Ford v Ferrari, James Mangold, 2019
 - Parasite, Bong Joon-ho, 2019
+- The Shining, Stanley Kubrick, 1980
 - Spirited Away, Hayao Miyazaki, 2001
 - The Matrix, Wachowski Twins, 1999
 - Ratatouille, Brad Bird, 2007
@@ -29,6 +32,7 @@
 - The Lord of the Rings Trilogy, Peter Jackson, 2001-2003
 - Raiders of the Lost Ark, Steven Speilberg, 1981
 - Star Trek, JJ Abrams, 2009
+- Ferris Bueller's Day Off, John Hughes, 1986
 - More to be added...
 
 ## TV Shows 
